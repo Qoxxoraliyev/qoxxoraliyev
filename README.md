@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi👋, I'm Muhammadali
+🧑🏽‍💻A passionate Software Engineer from Uzbekistan
+👨🏻‍🎓Studied Computer Science at TATU University, Fergana
+
 
 <!--
 **Qoxxoraliyev/qoxxoraliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

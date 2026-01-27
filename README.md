@@ -1,4 +1,4 @@
-## Hi👋, I'm Muhammadali
+<h1>Hi👋, I'm Muhammadali</h1>
 🧑🏽‍💻A passionate Software Engineer from Uzbekistan
 
 👨🏻‍🎓Studied Computer Science at TATU University, Fergana

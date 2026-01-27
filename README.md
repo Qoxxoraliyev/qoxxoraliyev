@@ -3,7 +3,7 @@
 
 👨🏻‍🎓Studied Computer Science at TATU University, Fergana
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,css, docker,git,html,java,js,kafka,kubernetes,linux,mongodb,mysql,postgres,postman,spring,sqlite,ts)](https://skillicons.dev)
+<h3 align="left">Languages and Tools:</h3>
 
 
 

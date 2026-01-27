@@ -1,5 +1,6 @@
 ## Hi👋, I'm Muhammadali
 🧑🏽‍💻A passionate Software Engineer from Uzbekistan
+
 👨🏻‍🎓Studied Computer Science at TATU University, Fergana
 
 

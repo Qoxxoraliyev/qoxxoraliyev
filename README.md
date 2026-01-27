@@ -3,6 +3,9 @@
 
 👨🏻‍🎓Studied Computer Science at TATU University, Fergana
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,fastapi,docker,kubernetes,postgres,mongodb,git,github,linux)](https://skillicons.dev)
+
+
 
 <!--
 **Qoxxoraliyev/qoxxoraliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

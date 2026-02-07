@@ -1,3 +1,7 @@
+# Muhammadali Qoxxoraliyev
+
+![Muhammadali](https://github.com/Qoxxoraliyev.png)
+
 <h1>Hi👋, I'm Muhammadali</h1>
 🧑🏽‍💻A passionate Software Engineer from Uzbekistan
 

@@ -9,6 +9,11 @@
 
 
 
+<div>
+  <img src="https://github.com/Qoxxoraliyev/Qoxxoraliyev/blob/output/github-snake-dark.svg" />
+</div>
+
+
 
 <!--
 **Qoxxoraliyev/qoxxoraliyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
